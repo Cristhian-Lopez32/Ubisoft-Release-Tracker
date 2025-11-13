@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "username": "admin",
+      "email": "admin@example.com",
+      "password": "$2b$10$w7Xh3F6zQe1q1p6Y8jK8u.LVnK/0Y8t0QmF7bJr9u1mY5Yz1zq9uK",
+      "role": "admin"
+    },
+    {
+      "id": "1760499462371",
+      "username": "cylopez32",
+      "email": "cylopez32@gmail.com",
+      "password": "$2b$10$v2556xBMW0yCU8l9WlQ2n.M73fRmxvMG9pdYc1EFKoxdXy3MNb5Ai",
+      "role": "user"
+    },
+    {
+      "id": "1761164013942",
+      "username": "maira",
+      "email": "mai",
+      "password": "$2b$10$AmfahfL3Bec3ARbxYY0N6u9sNMIgJAd1T6oxnspiAxDUkePiKteXC",
+      "role": "user"
+    },
+    {
+      "id": "1762916149623",
+      "username": "usuario1",
+      "email": "usuario1@gmail.com",
+      "password": "$2b$10$T3rdR6t.0cUpraXJ4hRYhOW88dJv76BldjoOLgubaoSjSjvVZMUSa",
+      "role": "user"
+    }
+  ],
+  "events": [
+    {
+      "id": "1762916502244",
+      "title": "Mi primer evento",
+      "date": "2025-11-11",
+      "owner": "1762916149623"
+    }
+  ]
+}
